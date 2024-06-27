@@ -1,0 +1,21 @@
+{
+  "name": "mtheme",
+  "displayName": "MTHEME",
+  "description": "Experience a Sleek, dark theme with ocenaic and slate blue hues.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MTHEME",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MTHEME-color-theme.json"
+      }
+    ]
+  }
+}
